@@ -70,6 +70,12 @@ const customers = [
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
   },
+  {
+    id: '13D0D035-CI9E-4157-AR11-K8DBE04E0CHB',
+    name: 'Doit Forme',
+    email: 'doit@forme.com',
+    image_url: '/customers/doit-forme.png',
+  }
 ];
 
 const invoices = [
